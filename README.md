@@ -15,7 +15,8 @@
 Password List generator
 
 
-## default passlist file  pgex.txt
+default passlist file  pgex.txt
+
 
 # 14 MODE 
 
