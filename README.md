@@ -17,11 +17,15 @@ Password List generator
 
 default passlist file  pgex.txt
 
-requirement
+## requirement
 
 ------
 
 python 3 => [Download](https://www.python.org/downloads/)
+
+
+
+
 
 
 ### 14 MODE 
