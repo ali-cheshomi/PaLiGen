@@ -17,7 +17,7 @@ Password List generator
 ** You can create millions of passwords **
 
 
-default passlist file  pgex.txt
+default passlist file => pgex.txt
 
 ## requirement
 
