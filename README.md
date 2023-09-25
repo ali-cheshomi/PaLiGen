@@ -14,7 +14,7 @@
 
 Password List generator
 
-#** 14 MODE ** 
+#14 MODE 
 
 Mode (1) : [1,2,3,...,9] 
 Mode (2) : [*,-,/,...,@] 
